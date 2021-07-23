@@ -1,0 +1,13 @@
+C:\Users\yirbe\OneDrive\Escritorio\HHRRSystem\bin\Debug\netcoreapp3.1\HHRRSystem.exe
+C:\Users\yirbe\OneDrive\Escritorio\HHRRSystem\bin\Debug\netcoreapp3.1\HHRRSystem.deps.json
+C:\Users\yirbe\OneDrive\Escritorio\HHRRSystem\bin\Debug\netcoreapp3.1\HHRRSystem.runtimeconfig.json
+C:\Users\yirbe\OneDrive\Escritorio\HHRRSystem\bin\Debug\netcoreapp3.1\HHRRSystem.runtimeconfig.dev.json
+C:\Users\yirbe\OneDrive\Escritorio\HHRRSystem\bin\Debug\netcoreapp3.1\HHRRSystem.dll
+C:\Users\yirbe\OneDrive\Escritorio\HHRRSystem\bin\Debug\netcoreapp3.1\HHRRSystem.pdb
+C:\Users\yirbe\OneDrive\Escritorio\HHRRSystem\obj\Debug\netcoreapp3.1\HHRRSystem.csprojAssemblyReference.cache
+C:\Users\yirbe\OneDrive\Escritorio\HHRRSystem\obj\Debug\netcoreapp3.1\HHRRSystem.AssemblyInfoInputs.cache
+C:\Users\yirbe\OneDrive\Escritorio\HHRRSystem\obj\Debug\netcoreapp3.1\HHRRSystem.AssemblyInfo.cs
+C:\Users\yirbe\OneDrive\Escritorio\HHRRSystem\obj\Debug\netcoreapp3.1\HHRRSystem.csproj.CoreCompileInputs.cache
+C:\Users\yirbe\OneDrive\Escritorio\HHRRSystem\obj\Debug\netcoreapp3.1\HHRRSystem.dll
+C:\Users\yirbe\OneDrive\Escritorio\HHRRSystem\obj\Debug\netcoreapp3.1\HHRRSystem.pdb
+C:\Users\yirbe\OneDrive\Escritorio\HHRRSystem\obj\Debug\netcoreapp3.1\HHRRSystem.genruntimeconfig.cache
